@@ -68,9 +68,9 @@ section {
 }
 
 .photo:hover {
-  border: 3px solid #FFD700;
+  border: 3px solid #FF0066;
 }
 
 .contacts dt:hover {
-  color:#FFD700;
+  color:#FF0066;
 }
